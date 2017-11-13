@@ -16,7 +16,7 @@ class Database {
 		$mysqli = new mysqli($data['hostname'],$data['username'],$data['password'],$data['database']);
 		if(mysqli_connect_errno())
 			return false;
-		$query = file_get_contents('assets/install.sql');
+		$query = file_get_contents('assets/sqlcommand.sql');
 		$mysqli->multi_query($query);
 		$mysqli->close();
 		return true;
