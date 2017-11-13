@@ -5,7 +5,7 @@ $db_config_path = '../application/config/database.php';
 if($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST) {
     
 	require_once('taskCoreClass.php');
-	require_once('includes/database_class.php');
+	require_once('includes/databaseLibrary.php');
 
 	$core = new Core();
 	$database = new Database();
