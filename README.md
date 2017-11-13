@@ -1,6 +1,9 @@
 # GoInstaller
 What is GoInstaller? GoInstaller is installer for CodeIgniter with user interface (UI).
 
+# Screenshot
+<img width="694" alt="GoInstaller" src="https://user-images.githubusercontent.com/11581453/32705473-dc558484-c84f-11e7-944a-a426beea5e47.png">
+
 # Feature
 - Install codeigniter version 2 and 3
 - Easy to use
@@ -13,6 +16,7 @@ What is GoInstaller? GoInstaller is installer for CodeIgniter with user interfac
 - Make sure your codeigniter database (application->config->database.php) to cmod 777
 - Open http://(Your Link)/install
 - Fill the form ,Hostname, Username, etc
+- Your URL website is link to redirect to your website after the installer is done
 - Done
 
 # About
