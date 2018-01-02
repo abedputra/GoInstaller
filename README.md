@@ -12,7 +12,7 @@ What is GoInstaller? GoInstaller is installer for CodeIgniter with user interfac
 - Clone or download
 - Place the install folder inside/root the codeigniter folder
 - Open SQL command file on assets->sqlcommand.sql
-- Add command SQL into install.sql
+- Add command SQL into sqlcommand.sql
 - Make sure your codeigniter database (application->config->database.php) to cmod 777
 - Open http://(Your Link)/install
 - Fill the form ,Hostname, Username, etc
