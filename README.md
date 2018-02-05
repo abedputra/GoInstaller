@@ -1,8 +1,19 @@
 # GoInstaller
 What is GoInstaller? GoInstaller is installer for CodeIgniter with user interface (UI).
 
+Create by me [Abed Putra](http://abedputra.com).
+
+# Innovation award
+![innovation-award-logo](https://user-images.githubusercontent.com/11581453/35784671-3436a5a6-0a55-11e8-90a7-c8c55b1a8fe9.png)
+
+>CodeIgniter is a very popular PHP framework used for developing Web applications.
+>This package can generate files for configuration installation of CodeIgniter applications.
+
+>Manuel Lemos
+
+
 # Screenshot
-<img width="694" alt="GoInstaller" src="https://user-images.githubusercontent.com/11581453/32705473-dc558484-c84f-11e7-944a-a426beea5e47.png">
+<img width="100%" alt="GoInstaller" src="https://user-images.githubusercontent.com/11581453/32705473-dc558484-c84f-11e7-944a-a426beea5e47.png">
 
 # Features
 - Install codeigniter version 2 and 3
